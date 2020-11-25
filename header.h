@@ -12,3 +12,4 @@ void calculator();
 void pascal_triangle(int n);
 void input_array(int* arr);
 int * sorting_using_pointers(int * arr, int n);
+int max_val_pointer(int * arr, int n);
