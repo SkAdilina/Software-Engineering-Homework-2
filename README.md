@@ -8,4 +8,4 @@ This repository contains the answers to the following problems given to us in th
 - "pointer.cpp" contains functions for question 5, 6 and 7.
 
 - The "header.h" file contains the declaration of the functions from all the files.
-- The "main_file.cpp" files contains the main functions where all the functions have been called.
+- The "main_file.cpp" files contains the main function where all the functions have been called.
